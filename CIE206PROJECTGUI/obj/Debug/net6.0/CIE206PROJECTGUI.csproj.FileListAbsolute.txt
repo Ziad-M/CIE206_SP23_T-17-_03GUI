@@ -1,0 +1,155 @@
+E:\Downloads\aviato-main\CIE206PROJECTGUI\CIE206PROJECTGUI\bin\Debug\net6.0\appsettings.Development.json
+E:\Downloads\aviato-main\CIE206PROJECTGUI\CIE206PROJECTGUI\bin\Debug\net6.0\appsettings.json
+E:\Downloads\aviato-main\CIE206PROJECTGUI\CIE206PROJECTGUI\bin\Debug\net6.0\CIE206PROJECTGUI.staticwebassets.runtime.json
+E:\Downloads\aviato-main\CIE206PROJECTGUI\CIE206PROJECTGUI\bin\Debug\net6.0\CIE206PROJECTGUI.exe
+E:\Downloads\aviato-main\CIE206PROJECTGUI\CIE206PROJECTGUI\bin\Debug\net6.0\CIE206PROJECTGUI.deps.json
+E:\Downloads\aviato-main\CIE206PROJECTGUI\CIE206PROJECTGUI\bin\Debug\net6.0\CIE206PROJECTGUI.runtimeconfig.json
+E:\Downloads\aviato-main\CIE206PROJECTGUI\CIE206PROJECTGUI\bin\Debug\net6.0\CIE206PROJECTGUI.dll
+E:\Downloads\aviato-main\CIE206PROJECTGUI\CIE206PROJECTGUI\bin\Debug\net6.0\CIE206PROJECTGUI.pdb
+E:\Downloads\aviato-main\CIE206PROJECTGUI\CIE206PROJECTGUI\obj\Debug\net6.0\CIE206PROJECTGUI.csproj.AssemblyReference.cache
+E:\Downloads\aviato-main\CIE206PROJECTGUI\CIE206PROJECTGUI\obj\Debug\net6.0\CIE206PROJECTGUI.GeneratedMSBuildEditorConfig.editorconfig
+E:\Downloads\aviato-main\CIE206PROJECTGUI\CIE206PROJECTGUI\obj\Debug\net6.0\CIE206PROJECTGUI.AssemblyInfoInputs.cache
+E:\Downloads\aviato-main\CIE206PROJECTGUI\CIE206PROJECTGUI\obj\Debug\net6.0\CIE206PROJECTGUI.AssemblyInfo.cs
+E:\Downloads\aviato-main\CIE206PROJECTGUI\CIE206PROJECTGUI\obj\Debug\net6.0\CIE206PROJECTGUI.csproj.CoreCompileInputs.cache
+E:\Downloads\aviato-main\CIE206PROJECTGUI\CIE206PROJECTGUI\obj\Debug\net6.0\CIE206PROJECTGUI.MvcApplicationPartsAssemblyInfo.cache
+E:\Downloads\aviato-main\CIE206PROJECTGUI\CIE206PROJECTGUI\obj\Debug\net6.0\CIE206PROJECTGUI.RazorAssemblyInfo.cache
+E:\Downloads\aviato-main\CIE206PROJECTGUI\CIE206PROJECTGUI\obj\Debug\net6.0\CIE206PROJECTGUI.RazorAssemblyInfo.cs
+E:\Downloads\aviato-main\CIE206PROJECTGUI\CIE206PROJECTGUI\obj\Debug\net6.0\staticwebassets\msbuild.CIE206PROJECTGUI.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Downloads\aviato-main\CIE206PROJECTGUI\CIE206PROJECTGUI\obj\Debug\net6.0\staticwebassets\msbuild.build.CIE206PROJECTGUI.props
+E:\Downloads\aviato-main\CIE206PROJECTGUI\CIE206PROJECTGUI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.CIE206PROJECTGUI.props
+E:\Downloads\aviato-main\CIE206PROJECTGUI\CIE206PROJECTGUI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.CIE206PROJECTGUI.props
+E:\Downloads\aviato-main\CIE206PROJECTGUI\CIE206PROJECTGUI\obj\Debug\net6.0\staticwebassets.pack.json
+E:\Downloads\aviato-main\CIE206PROJECTGUI\CIE206PROJECTGUI\obj\Debug\net6.0\staticwebassets.build.json
+E:\Downloads\aviato-main\CIE206PROJECTGUI\CIE206PROJECTGUI\obj\Debug\net6.0\staticwebassets.development.json
+E:\Downloads\aviato-main\CIE206PROJECTGUI\CIE206PROJECTGUI\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+E:\Downloads\aviato-main\CIE206PROJECTGUI\CIE206PROJECTGUI\obj\Debug\net6.0\scopedcss\bundle\CIE206PROJECTGUI.styles.css
+E:\Downloads\aviato-main\CIE206PROJECTGUI\CIE206PROJECTGUI\obj\Debug\net6.0\scopedcss\projectbundle\CIE206PROJECTGUI.bundle.scp.css
+E:\Downloads\aviato-main\CIE206PROJECTGUI\CIE206PROJECTGUI\obj\Debug\net6.0\CIE206PROJECTGUI.dll
+E:\Downloads\aviato-main\CIE206PROJECTGUI\CIE206PROJECTGUI\obj\Debug\net6.0\refint\CIE206PROJECTGUI.dll
+E:\Downloads\aviato-main\CIE206PROJECTGUI\CIE206PROJECTGUI\obj\Debug\net6.0\CIE206PROJECTGUI.pdb
+E:\Downloads\aviato-main\CIE206PROJECTGUI\CIE206PROJECTGUI\obj\Debug\net6.0\CIE206PROJECTGUI.genruntimeconfig.cache
+E:\Downloads\aviato-main\CIE206PROJECTGUI\CIE206PROJECTGUI\obj\Debug\net6.0\ref\CIE206PROJECTGUI.dll
+C:\Users\ziadm\Desktop\CIE206PROJECTGUI\CIE206PROJECTGUI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\ziadm\Desktop\CIE206PROJECTGUI\CIE206PROJECTGUI\bin\Debug\net6.0\appsettings.json
+C:\Users\ziadm\Desktop\CIE206PROJECTGUI\CIE206PROJECTGUI\bin\Debug\net6.0\CIE206PROJECTGUI.staticwebassets.runtime.json
+C:\Users\ziadm\Desktop\CIE206PROJECTGUI\CIE206PROJECTGUI\bin\Debug\net6.0\CIE206PROJECTGUI.exe
+C:\Users\ziadm\Desktop\CIE206PROJECTGUI\CIE206PROJECTGUI\bin\Debug\net6.0\CIE206PROJECTGUI.deps.json
+C:\Users\ziadm\Desktop\CIE206PROJECTGUI\CIE206PROJECTGUI\bin\Debug\net6.0\CIE206PROJECTGUI.runtimeconfig.json
+C:\Users\ziadm\Desktop\CIE206PROJECTGUI\CIE206PROJECTGUI\bin\Debug\net6.0\CIE206PROJECTGUI.dll
+C:\Users\ziadm\Desktop\CIE206PROJECTGUI\CIE206PROJECTGUI\bin\Debug\net6.0\CIE206PROJECTGUI.pdb
+C:\Users\ziadm\Desktop\CIE206PROJECTGUI\CIE206PROJECTGUI\obj\Debug\net6.0\CIE206PROJECTGUI.csproj.AssemblyReference.cache
+C:\Users\ziadm\Desktop\CIE206PROJECTGUI\CIE206PROJECTGUI\obj\Debug\net6.0\CIE206PROJECTGUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ziadm\Desktop\CIE206PROJECTGUI\CIE206PROJECTGUI\obj\Debug\net6.0\CIE206PROJECTGUI.AssemblyInfoInputs.cache
+C:\Users\ziadm\Desktop\CIE206PROJECTGUI\CIE206PROJECTGUI\obj\Debug\net6.0\CIE206PROJECTGUI.AssemblyInfo.cs
+C:\Users\ziadm\Desktop\CIE206PROJECTGUI\CIE206PROJECTGUI\obj\Debug\net6.0\CIE206PROJECTGUI.csproj.CoreCompileInputs.cache
+C:\Users\ziadm\Desktop\CIE206PROJECTGUI\CIE206PROJECTGUI\obj\Debug\net6.0\CIE206PROJECTGUI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ziadm\Desktop\CIE206PROJECTGUI\CIE206PROJECTGUI\obj\Debug\net6.0\CIE206PROJECTGUI.RazorAssemblyInfo.cache
+C:\Users\ziadm\Desktop\CIE206PROJECTGUI\CIE206PROJECTGUI\obj\Debug\net6.0\CIE206PROJECTGUI.RazorAssemblyInfo.cs
+C:\Users\ziadm\Desktop\CIE206PROJECTGUI\CIE206PROJECTGUI\obj\Debug\net6.0\staticwebassets\msbuild.CIE206PROJECTGUI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ziadm\Desktop\CIE206PROJECTGUI\CIE206PROJECTGUI\obj\Debug\net6.0\staticwebassets\msbuild.build.CIE206PROJECTGUI.props
+C:\Users\ziadm\Desktop\CIE206PROJECTGUI\CIE206PROJECTGUI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.CIE206PROJECTGUI.props
+C:\Users\ziadm\Desktop\CIE206PROJECTGUI\CIE206PROJECTGUI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.CIE206PROJECTGUI.props
+C:\Users\ziadm\Desktop\CIE206PROJECTGUI\CIE206PROJECTGUI\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\ziadm\Desktop\CIE206PROJECTGUI\CIE206PROJECTGUI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\ziadm\Desktop\CIE206PROJECTGUI\CIE206PROJECTGUI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\ziadm\Desktop\CIE206PROJECTGUI\CIE206PROJECTGUI\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\ziadm\Desktop\CIE206PROJECTGUI\CIE206PROJECTGUI\obj\Debug\net6.0\scopedcss\bundle\CIE206PROJECTGUI.styles.css
+C:\Users\ziadm\Desktop\CIE206PROJECTGUI\CIE206PROJECTGUI\obj\Debug\net6.0\scopedcss\projectbundle\CIE206PROJECTGUI.bundle.scp.css
+C:\Users\ziadm\Desktop\CIE206PROJECTGUI\CIE206PROJECTGUI\obj\Debug\net6.0\CIE206PROJECTGUI.dll
+C:\Users\ziadm\Desktop\CIE206PROJECTGUI\CIE206PROJECTGUI\obj\Debug\net6.0\refint\CIE206PROJECTGUI.dll
+C:\Users\ziadm\Desktop\CIE206PROJECTGUI\CIE206PROJECTGUI\obj\Debug\net6.0\CIE206PROJECTGUI.pdb
+C:\Users\ziadm\Desktop\CIE206PROJECTGUI\CIE206PROJECTGUI\obj\Debug\net6.0\CIE206PROJECTGUI.genruntimeconfig.cache
+C:\Users\ziadm\Desktop\CIE206PROJECTGUI\CIE206PROJECTGUI\obj\Debug\net6.0\ref\CIE206PROJECTGUI.dll
+E:\Downloads\CIE206_SP23_T[17]_03GUI\CIE206PROJECTGUI\bin\Debug\net6.0\appsettings.Development.json
+E:\Downloads\CIE206_SP23_T[17]_03GUI\CIE206PROJECTGUI\bin\Debug\net6.0\appsettings.json
+E:\Downloads\CIE206_SP23_T[17]_03GUI\CIE206PROJECTGUI\bin\Debug\net6.0\CIE206PROJECTGUI.staticwebassets.runtime.json
+E:\Downloads\CIE206_SP23_T[17]_03GUI\CIE206PROJECTGUI\bin\Debug\net6.0\CIE206PROJECTGUI.exe
+E:\Downloads\CIE206_SP23_T[17]_03GUI\CIE206PROJECTGUI\bin\Debug\net6.0\CIE206PROJECTGUI.deps.json
+E:\Downloads\CIE206_SP23_T[17]_03GUI\CIE206PROJECTGUI\bin\Debug\net6.0\CIE206PROJECTGUI.runtimeconfig.json
+E:\Downloads\CIE206_SP23_T[17]_03GUI\CIE206PROJECTGUI\bin\Debug\net6.0\CIE206PROJECTGUI.dll
+E:\Downloads\CIE206_SP23_T[17]_03GUI\CIE206PROJECTGUI\bin\Debug\net6.0\CIE206PROJECTGUI.pdb
+E:\Downloads\CIE206_SP23_T[17]_03GUI\CIE206PROJECTGUI\obj\Debug\net6.0\CIE206PROJECTGUI.csproj.AssemblyReference.cache
+E:\Downloads\CIE206_SP23_T[17]_03GUI\CIE206PROJECTGUI\obj\Debug\net6.0\CIE206PROJECTGUI.GeneratedMSBuildEditorConfig.editorconfig
+E:\Downloads\CIE206_SP23_T[17]_03GUI\CIE206PROJECTGUI\obj\Debug\net6.0\CIE206PROJECTGUI.AssemblyInfoInputs.cache
+E:\Downloads\CIE206_SP23_T[17]_03GUI\CIE206PROJECTGUI\obj\Debug\net6.0\CIE206PROJECTGUI.AssemblyInfo.cs
+E:\Downloads\CIE206_SP23_T[17]_03GUI\CIE206PROJECTGUI\obj\Debug\net6.0\CIE206PROJECTGUI.csproj.CoreCompileInputs.cache
+E:\Downloads\CIE206_SP23_T[17]_03GUI\CIE206PROJECTGUI\obj\Debug\net6.0\CIE206PROJECTGUI.MvcApplicationPartsAssemblyInfo.cache
+E:\Downloads\CIE206_SP23_T[17]_03GUI\CIE206PROJECTGUI\obj\Debug\net6.0\CIE206PROJECTGUI.RazorAssemblyInfo.cache
+E:\Downloads\CIE206_SP23_T[17]_03GUI\CIE206PROJECTGUI\obj\Debug\net6.0\CIE206PROJECTGUI.RazorAssemblyInfo.cs
+E:\Downloads\CIE206_SP23_T[17]_03GUI\CIE206PROJECTGUI\obj\Debug\net6.0\staticwebassets\msbuild.CIE206PROJECTGUI.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Downloads\CIE206_SP23_T[17]_03GUI\CIE206PROJECTGUI\obj\Debug\net6.0\staticwebassets\msbuild.build.CIE206PROJECTGUI.props
+E:\Downloads\CIE206_SP23_T[17]_03GUI\CIE206PROJECTGUI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.CIE206PROJECTGUI.props
+E:\Downloads\CIE206_SP23_T[17]_03GUI\CIE206PROJECTGUI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.CIE206PROJECTGUI.props
+E:\Downloads\CIE206_SP23_T[17]_03GUI\CIE206PROJECTGUI\obj\Debug\net6.0\staticwebassets.pack.json
+E:\Downloads\CIE206_SP23_T[17]_03GUI\CIE206PROJECTGUI\obj\Debug\net6.0\staticwebassets.build.json
+E:\Downloads\CIE206_SP23_T[17]_03GUI\CIE206PROJECTGUI\obj\Debug\net6.0\staticwebassets.development.json
+E:\Downloads\CIE206_SP23_T[17]_03GUI\CIE206PROJECTGUI\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+E:\Downloads\CIE206_SP23_T[17]_03GUI\CIE206PROJECTGUI\obj\Debug\net6.0\scopedcss\bundle\CIE206PROJECTGUI.styles.css
+E:\Downloads\CIE206_SP23_T[17]_03GUI\CIE206PROJECTGUI\obj\Debug\net6.0\scopedcss\projectbundle\CIE206PROJECTGUI.bundle.scp.css
+E:\Downloads\CIE206_SP23_T[17]_03GUI\CIE206PROJECTGUI\obj\Debug\net6.0\CIE206PROJECTGUI.dll
+E:\Downloads\CIE206_SP23_T[17]_03GUI\CIE206PROJECTGUI\obj\Debug\net6.0\refint\CIE206PROJECTGUI.dll
+E:\Downloads\CIE206_SP23_T[17]_03GUI\CIE206PROJECTGUI\obj\Debug\net6.0\CIE206PROJECTGUI.pdb
+E:\Downloads\CIE206_SP23_T[17]_03GUI\CIE206PROJECTGUI\obj\Debug\net6.0\CIE206PROJECTGUI.genruntimeconfig.cache
+E:\Downloads\CIE206_SP23_T[17]_03GUI\CIE206PROJECTGUI\obj\Debug\net6.0\ref\CIE206PROJECTGUI.dll
+D:\DB\Nada 135\CIE206_SP23_T[17]_03GUI\CIE206PROJECTGUI\bin\Debug\net6.0\appsettings.Development.json
+D:\DB\Nada 135\CIE206_SP23_T[17]_03GUI\CIE206PROJECTGUI\bin\Debug\net6.0\appsettings.json
+D:\DB\Nada 135\CIE206_SP23_T[17]_03GUI\CIE206PROJECTGUI\bin\Debug\net6.0\CIE206PROJECTGUI.staticwebassets.runtime.json
+D:\DB\Nada 135\CIE206_SP23_T[17]_03GUI\CIE206PROJECTGUI\bin\Debug\net6.0\CIE206PROJECTGUI.exe
+D:\DB\Nada 135\CIE206_SP23_T[17]_03GUI\CIE206PROJECTGUI\bin\Debug\net6.0\CIE206PROJECTGUI.deps.json
+D:\DB\Nada 135\CIE206_SP23_T[17]_03GUI\CIE206PROJECTGUI\bin\Debug\net6.0\CIE206PROJECTGUI.runtimeconfig.json
+D:\DB\Nada 135\CIE206_SP23_T[17]_03GUI\CIE206PROJECTGUI\bin\Debug\net6.0\CIE206PROJECTGUI.dll
+D:\DB\Nada 135\CIE206_SP23_T[17]_03GUI\CIE206PROJECTGUI\bin\Debug\net6.0\CIE206PROJECTGUI.pdb
+D:\DB\Nada 135\CIE206_SP23_T[17]_03GUI\CIE206PROJECTGUI\obj\Debug\net6.0\CIE206PROJECTGUI.csproj.AssemblyReference.cache
+D:\DB\Nada 135\CIE206_SP23_T[17]_03GUI\CIE206PROJECTGUI\obj\Debug\net6.0\CIE206PROJECTGUI.GeneratedMSBuildEditorConfig.editorconfig
+D:\DB\Nada 135\CIE206_SP23_T[17]_03GUI\CIE206PROJECTGUI\obj\Debug\net6.0\CIE206PROJECTGUI.AssemblyInfoInputs.cache
+D:\DB\Nada 135\CIE206_SP23_T[17]_03GUI\CIE206PROJECTGUI\obj\Debug\net6.0\CIE206PROJECTGUI.AssemblyInfo.cs
+D:\DB\Nada 135\CIE206_SP23_T[17]_03GUI\CIE206PROJECTGUI\obj\Debug\net6.0\CIE206PROJECTGUI.csproj.CoreCompileInputs.cache
+D:\DB\Nada 135\CIE206_SP23_T[17]_03GUI\CIE206PROJECTGUI\obj\Debug\net6.0\CIE206PROJECTGUI.MvcApplicationPartsAssemblyInfo.cache
+D:\DB\Nada 135\CIE206_SP23_T[17]_03GUI\CIE206PROJECTGUI\obj\Debug\net6.0\CIE206PROJECTGUI.RazorAssemblyInfo.cache
+D:\DB\Nada 135\CIE206_SP23_T[17]_03GUI\CIE206PROJECTGUI\obj\Debug\net6.0\CIE206PROJECTGUI.RazorAssemblyInfo.cs
+D:\DB\Nada 135\CIE206_SP23_T[17]_03GUI\CIE206PROJECTGUI\obj\Debug\net6.0\staticwebassets\msbuild.CIE206PROJECTGUI.Microsoft.AspNetCore.StaticWebAssets.props
+D:\DB\Nada 135\CIE206_SP23_T[17]_03GUI\CIE206PROJECTGUI\obj\Debug\net6.0\staticwebassets\msbuild.build.CIE206PROJECTGUI.props
+D:\DB\Nada 135\CIE206_SP23_T[17]_03GUI\CIE206PROJECTGUI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.CIE206PROJECTGUI.props
+D:\DB\Nada 135\CIE206_SP23_T[17]_03GUI\CIE206PROJECTGUI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.CIE206PROJECTGUI.props
+D:\DB\Nada 135\CIE206_SP23_T[17]_03GUI\CIE206PROJECTGUI\obj\Debug\net6.0\staticwebassets.pack.json
+D:\DB\Nada 135\CIE206_SP23_T[17]_03GUI\CIE206PROJECTGUI\obj\Debug\net6.0\staticwebassets.build.json
+D:\DB\Nada 135\CIE206_SP23_T[17]_03GUI\CIE206PROJECTGUI\obj\Debug\net6.0\staticwebassets.development.json
+D:\DB\Nada 135\CIE206_SP23_T[17]_03GUI\CIE206PROJECTGUI\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+D:\DB\Nada 135\CIE206_SP23_T[17]_03GUI\CIE206PROJECTGUI\obj\Debug\net6.0\scopedcss\bundle\CIE206PROJECTGUI.styles.css
+D:\DB\Nada 135\CIE206_SP23_T[17]_03GUI\CIE206PROJECTGUI\obj\Debug\net6.0\scopedcss\projectbundle\CIE206PROJECTGUI.bundle.scp.css
+D:\DB\Nada 135\CIE206_SP23_T[17]_03GUI\CIE206PROJECTGUI\obj\Debug\net6.0\CIE206PROJECTGUI.dll
+D:\DB\Nada 135\CIE206_SP23_T[17]_03GUI\CIE206PROJECTGUI\obj\Debug\net6.0\refint\CIE206PROJECTGUI.dll
+D:\DB\Nada 135\CIE206_SP23_T[17]_03GUI\CIE206PROJECTGUI\obj\Debug\net6.0\CIE206PROJECTGUI.pdb
+D:\DB\Nada 135\CIE206_SP23_T[17]_03GUI\CIE206PROJECTGUI\obj\Debug\net6.0\CIE206PROJECTGUI.genruntimeconfig.cache
+D:\DB\Nada 135\CIE206_SP23_T[17]_03GUI\CIE206PROJECTGUI\obj\Debug\net6.0\ref\CIE206PROJECTGUI.dll
+C:\Users\ziadm\Downloads\CIE206_SP23_T[17]_03GUI\CIE206_SP23_T[17]_03GUI\CIE206PROJECTGUI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\ziadm\Downloads\CIE206_SP23_T[17]_03GUI\CIE206_SP23_T[17]_03GUI\CIE206PROJECTGUI\bin\Debug\net6.0\appsettings.json
+C:\Users\ziadm\Downloads\CIE206_SP23_T[17]_03GUI\CIE206_SP23_T[17]_03GUI\CIE206PROJECTGUI\bin\Debug\net6.0\CIE206PROJECTGUI.staticwebassets.runtime.json
+C:\Users\ziadm\Downloads\CIE206_SP23_T[17]_03GUI\CIE206_SP23_T[17]_03GUI\CIE206PROJECTGUI\bin\Debug\net6.0\CIE206PROJECTGUI.exe
+C:\Users\ziadm\Downloads\CIE206_SP23_T[17]_03GUI\CIE206_SP23_T[17]_03GUI\CIE206PROJECTGUI\bin\Debug\net6.0\CIE206PROJECTGUI.deps.json
+C:\Users\ziadm\Downloads\CIE206_SP23_T[17]_03GUI\CIE206_SP23_T[17]_03GUI\CIE206PROJECTGUI\bin\Debug\net6.0\CIE206PROJECTGUI.runtimeconfig.json
+C:\Users\ziadm\Downloads\CIE206_SP23_T[17]_03GUI\CIE206_SP23_T[17]_03GUI\CIE206PROJECTGUI\bin\Debug\net6.0\CIE206PROJECTGUI.dll
+C:\Users\ziadm\Downloads\CIE206_SP23_T[17]_03GUI\CIE206_SP23_T[17]_03GUI\CIE206PROJECTGUI\bin\Debug\net6.0\CIE206PROJECTGUI.pdb
+C:\Users\ziadm\Downloads\CIE206_SP23_T[17]_03GUI\CIE206_SP23_T[17]_03GUI\CIE206PROJECTGUI\obj\Debug\net6.0\CIE206PROJECTGUI.csproj.AssemblyReference.cache
+C:\Users\ziadm\Downloads\CIE206_SP23_T[17]_03GUI\CIE206_SP23_T[17]_03GUI\CIE206PROJECTGUI\obj\Debug\net6.0\CIE206PROJECTGUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ziadm\Downloads\CIE206_SP23_T[17]_03GUI\CIE206_SP23_T[17]_03GUI\CIE206PROJECTGUI\obj\Debug\net6.0\CIE206PROJECTGUI.AssemblyInfoInputs.cache
+C:\Users\ziadm\Downloads\CIE206_SP23_T[17]_03GUI\CIE206_SP23_T[17]_03GUI\CIE206PROJECTGUI\obj\Debug\net6.0\CIE206PROJECTGUI.AssemblyInfo.cs
+C:\Users\ziadm\Downloads\CIE206_SP23_T[17]_03GUI\CIE206_SP23_T[17]_03GUI\CIE206PROJECTGUI\obj\Debug\net6.0\CIE206PROJECTGUI.csproj.CoreCompileInputs.cache
+C:\Users\ziadm\Downloads\CIE206_SP23_T[17]_03GUI\CIE206_SP23_T[17]_03GUI\CIE206PROJECTGUI\obj\Debug\net6.0\CIE206PROJECTGUI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ziadm\Downloads\CIE206_SP23_T[17]_03GUI\CIE206_SP23_T[17]_03GUI\CIE206PROJECTGUI\obj\Debug\net6.0\CIE206PROJECTGUI.RazorAssemblyInfo.cache
+C:\Users\ziadm\Downloads\CIE206_SP23_T[17]_03GUI\CIE206_SP23_T[17]_03GUI\CIE206PROJECTGUI\obj\Debug\net6.0\CIE206PROJECTGUI.RazorAssemblyInfo.cs
+C:\Users\ziadm\Downloads\CIE206_SP23_T[17]_03GUI\CIE206_SP23_T[17]_03GUI\CIE206PROJECTGUI\obj\Debug\net6.0\staticwebassets\msbuild.CIE206PROJECTGUI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ziadm\Downloads\CIE206_SP23_T[17]_03GUI\CIE206_SP23_T[17]_03GUI\CIE206PROJECTGUI\obj\Debug\net6.0\staticwebassets\msbuild.build.CIE206PROJECTGUI.props
+C:\Users\ziadm\Downloads\CIE206_SP23_T[17]_03GUI\CIE206_SP23_T[17]_03GUI\CIE206PROJECTGUI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.CIE206PROJECTGUI.props
+C:\Users\ziadm\Downloads\CIE206_SP23_T[17]_03GUI\CIE206_SP23_T[17]_03GUI\CIE206PROJECTGUI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.CIE206PROJECTGUI.props
+C:\Users\ziadm\Downloads\CIE206_SP23_T[17]_03GUI\CIE206_SP23_T[17]_03GUI\CIE206PROJECTGUI\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\ziadm\Downloads\CIE206_SP23_T[17]_03GUI\CIE206_SP23_T[17]_03GUI\CIE206PROJECTGUI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\ziadm\Downloads\CIE206_SP23_T[17]_03GUI\CIE206_SP23_T[17]_03GUI\CIE206PROJECTGUI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\ziadm\Downloads\CIE206_SP23_T[17]_03GUI\CIE206_SP23_T[17]_03GUI\CIE206PROJECTGUI\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\ziadm\Downloads\CIE206_SP23_T[17]_03GUI\CIE206_SP23_T[17]_03GUI\CIE206PROJECTGUI\obj\Debug\net6.0\scopedcss\bundle\CIE206PROJECTGUI.styles.css
+C:\Users\ziadm\Downloads\CIE206_SP23_T[17]_03GUI\CIE206_SP23_T[17]_03GUI\CIE206PROJECTGUI\obj\Debug\net6.0\scopedcss\projectbundle\CIE206PROJECTGUI.bundle.scp.css
+C:\Users\ziadm\Downloads\CIE206_SP23_T[17]_03GUI\CIE206_SP23_T[17]_03GUI\CIE206PROJECTGUI\obj\Debug\net6.0\CIE206PROJECTGUI.dll
+C:\Users\ziadm\Downloads\CIE206_SP23_T[17]_03GUI\CIE206_SP23_T[17]_03GUI\CIE206PROJECTGUI\obj\Debug\net6.0\refint\CIE206PROJECTGUI.dll
+C:\Users\ziadm\Downloads\CIE206_SP23_T[17]_03GUI\CIE206_SP23_T[17]_03GUI\CIE206PROJECTGUI\obj\Debug\net6.0\CIE206PROJECTGUI.pdb
+C:\Users\ziadm\Downloads\CIE206_SP23_T[17]_03GUI\CIE206_SP23_T[17]_03GUI\CIE206PROJECTGUI\obj\Debug\net6.0\CIE206PROJECTGUI.genruntimeconfig.cache
+C:\Users\ziadm\Downloads\CIE206_SP23_T[17]_03GUI\CIE206_SP23_T[17]_03GUI\CIE206PROJECTGUI\obj\Debug\net6.0\ref\CIE206PROJECTGUI.dll
